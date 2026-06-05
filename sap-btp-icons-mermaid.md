@@ -134,7 +134,7 @@ CDN base: `https://cdn.jsdelivr.net/gh/rlabarcau/sap-btp-icons@main/svg/`
 | ![SAP Build](https://cdn.jsdelivr.net/gh/rlabarcau/sap-btp-icons@main/svg/34157-sap-build_sd.svg) | `SAP_BUILD` | SAP Build |
 | ![Application Frontend Service](https://cdn.jsdelivr.net/gh/rlabarcau/sap-btp-icons@main/svg/34158-application-frontend-service_sd.svg) | `SAP_AFS` | Application Frontend Service |
 | ![Customer Data Cloud](https://cdn.jsdelivr.net/gh/rlabarcau/sap-btp-icons@main/svg/34159-customer-data-cloud_sd.svg) | `SAP_CDC` | Customer Data Cloud |
-| ![Joule Studio](https://cdn.jsdelivr.net/gh/rlabarcau/sap-btp-icons@main/svg/35158-joule studio_sd.svg) | `SAP_JST` | Joule Studio |
+| ![Joule Studio](https://cdn.jsdelivr.net/gh/rlabarcau/sap-btp-icons@main/svg/35158-joule-studio_sd.svg) | `SAP_JST` | Joule Studio |
 
 ---
 

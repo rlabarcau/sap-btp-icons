@@ -27,9 +27,9 @@ These icons are designed for use with the Mermaid `img` node syntax (requires Me
 
 ```mermaid
 flowchart LR
-    SAP_DS:::classBTP@{ img: "https://cdn.jsdelivr.net/gh/rlabarcau/sap-btp-icons@main/svg/10025-sap-datasphere_sd.svg", label: "SAP Datasphere", pos: "t", w: 30, h: 30, constraint: "on" }
-    SAP_HANA:::classBTP@{ img: "https://cdn.jsdelivr.net/gh/rlabarcau/sap-btp-icons@main/svg/20083-sap-hana-cloud_sd.svg", label: "SAP HANA Cloud", pos: "t", w: 30, h: 30, constraint: "on" }
-    SAP_IS:::classBTP@{ img: "https://cdn.jsdelivr.net/gh/rlabarcau/sap-btp-icons@main/svg/32086-sap-integration-suite_sd.svg", label: "SAP Integration Suite", pos: "t", w: 30, h: 30, constraint: "on" }
+    SAP_DS:::classBTP@{ img: "https://cdn.jsdelivr.net/gh/rlabarcau/sap-btp-icons@main/svg/10025-sap-datasphere_sd.svg", label: "SAP Datasphere",  w: 30, h: 30, constraint: "on" }
+    SAP_HANA:::classBTP@{ img: "https://cdn.jsdelivr.net/gh/rlabarcau/sap-btp-icons@main/svg/20083-sap-hana-cloud_sd.svg", label: "SAP HANA Cloud",  w: 30, h: 30, constraint: "on" }
+    SAP_IS:::classBTP@{ img: "https://cdn.jsdelivr.net/gh/rlabarcau/sap-btp-icons@main/svg/32086-sap-integration-suite_sd.svg", label: "SAP Integration Suite",  w: 30, h: 30, constraint: "on" }
 
     SAP_DS --> SAP_IS --> SAP_HANA
     classDef classBTP stroke-width:0px, fill:transparent
@@ -38,7 +38,7 @@ flowchart LR
 ### Node definition pattern
 
 ```
-NODE_ID:::classBTP@{ img: "ICON_URL", label: "Service Name", pos: "t", w: 30, h: 30, constraint: "on" }
+NODE_ID:::classBTP@{ img: "ICON_URL", label: "Service Name",  w: 30, h: 30, constraint: "on" }
 classDef classBTP stroke-width:0px, fill:transparent
 ```
 
